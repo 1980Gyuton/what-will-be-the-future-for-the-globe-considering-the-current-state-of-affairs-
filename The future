@@ -1,0 +1,7 @@
+echo "# what-will-be-the-future-for-the-globe-considering-the-current-state-of-affairs-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/1980Gyuton/what-will-be-the-future-for-the-globe-considering-the-current-state-of-affairs-.git
+git push -u origin main
